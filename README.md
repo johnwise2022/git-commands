@@ -1,0 +1,2 @@
+# gitshortkeys
+önemli git komutlar
