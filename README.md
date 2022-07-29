@@ -1,2 +1,2 @@
-# gitshortkeys
+# gitkomutları
 önemli git komutlar
